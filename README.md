@@ -26,11 +26,18 @@ Steps:
 
 ---
 
+# Screenshots
+![Desktop View](../master/imgs/desktop.jpg)
+
+---
+
 ### Frameworks/APIs used:
+* [jQuery](https://jquery.com)
+* [Material Theme](https://materializecss.com)
 * [KnockoutJS](https://knockoutjs.com)
 * [Google Maps API](https://developers.google.com/maps/)
 * [Foursquare API](https://developer.foursquare.com/)
-* [Material Theme](https://materializecss.com)
-* [jQuery](https://jquery.com)
+
+
 
 
