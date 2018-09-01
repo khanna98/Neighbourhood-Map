@@ -27,7 +27,7 @@ Steps:
 ---
 
 # Screenshots
-![Desktop View](../master/imgs/desktop.jpg)
+![Desktop View](../master/imgs/desktop.png)
 
 ---
 
