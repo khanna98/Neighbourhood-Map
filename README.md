@@ -2,6 +2,7 @@
 
 This is the last project of the Front-end Nanodgree II
 
+---
 ### Features
 
 * When you'll open this for the first time, it will ask you for the location.
@@ -32,5 +33,4 @@ Steps:
 * [Material Theme](https://materializecss.com)
 * [jQuery](https://jquery.com)
 
----
 
