@@ -1,7 +1,6 @@
 # Neighborhood Map
 
-This is the second project of the Full Stack Nano Degree II by Udacity.
-
+This is the last project of the Front-end Nanodgree II
 ---
 
 ### Frameworks/APIs used:
@@ -12,12 +11,9 @@ This is the second project of the Full Stack Nano Degree II by Udacity.
 * [jQuery](https://jquery.com)
 
 ---
-![Image mockup](../master/img/mockup.jpg)
-
----
 
 #### Steps to run project:
-You can run the live verson from here: [Neighborhood Map.](https://thakursaurabh1998.github.io/map/)
+You can run the live verson from here: [Neighborhood Map.]()
 
 OR
 
@@ -32,13 +28,8 @@ Steps:
 
 ### Features
 
-* If you open the website for the first time, it will prompt you to get your location.
-* Live location is tracked if the user gives access and places are shown according to the users current location.
-* A current location button is also provided which shifts the displayed location to users live location.
-* A blue circle is displayed which shows the users current location.
-* Drop down menu is given from which user can choose the category which he wants to see.
-* A list of all locations is showed by default. Pressing the list item displays the respective marker.
-* User can also search for a location and can receive suggestions for the searched location.
-* Autocompletion API completes the location search while the user is typing the location.
-* This website runs on material theme and is completely responsive and works beautifully for mobile devices as well as desktops.
-# Neighbourhood-Map
+* When you'll open this for the first time, it will ask you for the location.
+* Users live location is tracked and suggested places are shown if the user grants access.
+* Autocompletion for the location search.
+* This is completely responsive and runs on material theme.
+* List of all locations shown by default.
